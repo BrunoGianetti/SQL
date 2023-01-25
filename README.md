@@ -7,11 +7,15 @@ This repo contains a several projects in SQL for study and show as Portfolio. Th
 Project: Studying the documentation and handling some code
 ![1](https://user-images.githubusercontent.com/55636879/214305106-964e02a3-cfc9-4822-bb12-9bab6802d669.PNG)
 
+Project: Studying the documentation and handling some code
+![2](https://user-images.githubusercontent.com/55636879/214683339-817c0684-fafb-4b41-b7a7-ca812df51f09.PNG)
+
 ## The current projects in this repo are:
 
 | Name | Description |
 |--- |---|
 | PostgreSQL | Basic steps |
+| PostgreSQL: VIEWs, Subs and Functions | Basic steps |
 
 ## How to use this repo
 
