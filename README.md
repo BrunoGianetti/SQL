@@ -17,6 +17,7 @@ Project: Studying the documentation and handling some code
 | PostgreSQL | Basic steps |
 | PostgreSQL: VIEWs, Subqueries and Functions | Manipulation |
 | PostgreSQL: DML and DDL commands| Manipulation |
+| PostgreSQL: PL/pgSQL | Developing some code |
 
 ## How to use this repo
 
