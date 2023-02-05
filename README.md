@@ -18,6 +18,7 @@ Project: Studying the documentation and handling some code
 | PostgreSQL: VIEWs, Subqueries and Functions | Manipulation |
 | PostgreSQL: DML and DDL commands| Manipulation |
 | PostgreSQL: PL/pgSQL | Developing some code |
+| PostgreSQL | Triggers, transations, errors and cursors |
 
 ## How to use this repo
 
