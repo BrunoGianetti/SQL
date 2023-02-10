@@ -1,1 +1,2 @@
 Download .bak file and restore Database on SQL Server.
+Download .sln file and restore ETL on Visual Studio.
