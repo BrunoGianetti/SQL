@@ -4,11 +4,15 @@
 
 This repo contains a several projects in SQL for study and show as Portfolio. The images below can ilustrate three examples of many projects that will incrise in time.
 
-Project: Studying the documentation and handling some code
+Project1: Studying the documentation and handling some code
 ![1](https://user-images.githubusercontent.com/55636879/214305106-964e02a3-cfc9-4822-bb12-9bab6802d669.PNG)
 
-Project: Studying the documentation and handling some code
+Project2: Studying the documentation and handling some code
 ![2](https://user-images.githubusercontent.com/55636879/214683339-817c0684-fafb-4b41-b7a7-ca812df51f09.PNG)
+
+Project3: An integer Datawarehouse constructed.
+![Capturar](https://user-images.githubusercontent.com/55636879/217983705-c4713c62-aaee-451a-b395-326df452b558.PNG)
+
 
 ## The current projects in this repo are:
 
@@ -19,6 +23,7 @@ Project: Studying the documentation and handling some code
 | PostgreSQL: DML and DDL commands| Manipulation |
 | PostgreSQL: PL/pgSQL | Developing some code |
 | PostgreSQL | Triggers, transations, errors and cursors |
+| Microsoft SQL Server | A Datawarehouse builded by Integration Services |
 
 ## How to use this repo
 
