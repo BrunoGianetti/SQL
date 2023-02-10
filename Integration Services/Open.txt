@@ -1,0 +1,1 @@
+Download .bak file and restore Database on SQL Server.
