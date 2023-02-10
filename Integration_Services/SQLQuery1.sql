@@ -1,3 +1,0 @@
-SELECT '001' AS CODIGO, 'Fábrica Rio de Janeiro' AS DESCRITOR
-UNION
-SELECT '002' AS CODIGO, 'Fábrica São Paulo' AS DESCRITOR
