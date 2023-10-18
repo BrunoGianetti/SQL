@@ -28,7 +28,7 @@ Project4: A Data Modeling.
 | PostgreSQL | Triggers, transations, errors and cursors |
 | Microsoft SQL Server | A Datawarehouse builded by Integration Services |
 | BR Modelo &  SQL Power Architect | A system librarie developed |
-| Python with sqlalchemy | A notebook with a queries in a store system database |
+| Python with sqlalchemy | A notebook with queries in a store system database |
 
 ## How to use this repo
 
